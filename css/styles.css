@@ -1,0 +1,14 @@
+body
+{
+    background-color: #1194f0;
+    font-family: "Comfortaa";
+}
+
+.top-container{
+    padding: 20px;
+}
+
+p, h1{
+    color: white;
+    text-align: center;
+}
